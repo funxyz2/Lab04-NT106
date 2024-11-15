@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "46PO/sxr/E7ZMfkzPCjmDqeK5UK53MAkj2AlVZzUC1E8uIqVF/bXYBjfN+sXBqYcPoMIJUAdoowtSHOTlzHuqQ==",
+  "success": true,
+  "projectFilePath": "E:\\lab4_ltm\\lab04_ltm(edited)\\lab04_ltm(edited)\\lab04_ltm(edited).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nminh\\.nuget\\packages\\htmlagilitypack\\1.11.71\\htmlagilitypack.1.11.71.nupkg.sha512",
+    "C:\\Users\\nminh\\.nuget\\packages\\microsoft.web.webview2\\1.0.2849.39\\microsoft.web.webview2.1.0.2849.39.nupkg.sha512",
+    "C:\\Users\\nminh\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
