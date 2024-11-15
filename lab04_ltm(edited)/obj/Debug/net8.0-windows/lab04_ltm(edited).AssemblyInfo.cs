@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lab04_ltm(edited)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a02889d6c51eae3426d4aced135369f532ec6e2")]
 [assembly: System.Reflection.AssemblyProductAttribute("lab04_ltm(edited)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lab04_ltm(edited)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

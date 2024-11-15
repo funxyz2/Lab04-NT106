@@ -1,5 +1,6 @@
 ﻿using Microsoft.Web.WebView2.Core;
 using System;
+using System.Security.Policy;
 using System.Windows.Forms;
 
 namespace lab04_ltm_edited_
@@ -9,7 +10,7 @@ namespace lab04_ltm_edited_
         public Form3()
         {
             InitializeComponent();
-            this.Resize += new System.EventHandler(this.Form3_Resize_1);
+            this.WindowState = FormWindowState.Maximized;
         }
 
         private async void Form3_Load(object sender, EventArgs e)
@@ -75,7 +76,7 @@ namespace lab04_ltm_edited_
             this.Height = webView.Height + 100;
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void WebBrowser_Click(object sender, EventArgs e)
         {
             if (!string.IsNullOrEmpty(urlTextBox.Text))
             {
@@ -98,14 +99,42 @@ namespace lab04_ltm_edited_
         }
         private void Form3_Resize_1(object sender, EventArgs e)
         {
-            /*// Đảm bảo WebView2 điều chỉnh theo kích thước của Form
-            if (webView != null)
-            {
-                // Điều chỉnh kích thước WebView2 để khớp với kích thước của Form (trừ khoảng cách nếu có)
-                webView.Width = this.ClientSize.Width;
-                webView.Height = this.ClientSize.Height - toolPanel.Height; // toolPanel là phần chứa các ComboBox và nút
-            }*/
+
         }
 
+        private void webView_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void userAgentComboBox_SelectedIndexChanged_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void toolPanel_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void Delete_Click(object sender, EventArgs e)
+        {
+            // Kiểm tra nếu webView21 đã được khởi tạo
+            if (webView == null || webView.CoreWebView2 == null)
+            {
+                MessageBox.Show("WebView chưa sẵn sàng!", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
+
+            // Tải trang trắng (about:blank) để xóa nội dung hiển thị
+            webView.CoreWebView2.Navigate("about:blank");
+
+            urlTextBox.Text = "";
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }

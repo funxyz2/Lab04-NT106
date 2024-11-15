@@ -236,19 +236,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\nminh\\.nuget\\packages\\": {}
+    "C:\\Users\\Pexa\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\lab4_ltm\\lab04_ltm(edited)\\lab04_ltm(edited)\\lab04_ltm(edited).csproj",
+      "projectUniqueName": "D:\\Lab4Collab\\cc\\lab04_ltm(edited)\\lab04_ltm(edited).csproj",
       "projectName": "lab04_ltm(edited)",
-      "projectPath": "E:\\lab4_ltm\\lab04_ltm(edited)\\lab04_ltm(edited)\\lab04_ltm(edited).csproj",
-      "packagesPath": "C:\\Users\\nminh\\.nuget\\packages\\",
-      "outputPath": "E:\\lab4_ltm\\lab04_ltm(edited)\\lab04_ltm(edited)\\obj\\",
+      "projectPath": "D:\\Lab4Collab\\cc\\lab04_ltm(edited)\\lab04_ltm(edited).csproj",
+      "packagesPath": "C:\\Users\\Pexa\\.nuget\\packages\\",
+      "outputPath": "D:\\Lab4Collab\\cc\\lab04_ltm(edited)\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\nminh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Pexa\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -256,6 +256,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -311,7 +312,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -69,6 +69,18 @@ namespace lab04_ltm_edited_
                 listBoxUsers.Items.Add($"ID: {user.Id} - Name: {user.Name}");
             }
         }
+
+        private void Delete_Click(object sender, EventArgs e)
+        {
+            listBoxComments.Items.Clear();
+            listBoxPhotos.Items.Clear();
+            listBoxUsers.Items.Clear();
+        }
+
+        private void Exit_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
     public class Photo
     {

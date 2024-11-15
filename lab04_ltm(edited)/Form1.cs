@@ -43,6 +43,15 @@ namespace lab04_ltm_edited_
                 return;
             }
 
+            // Check if URL is valid
+            if (!Uri.IsWellFormedUriString(url, UriKind.Absolute))
+            {
+                MessageBox.Show("The URL is not valid!", "Error",
+                    MessageBoxButtons.OK, MessageBoxIcon.Error);
+                txtUrl.Text = "";
+                return;
+            }
+
             // Kiểm tra và thêm "http://" nếu người dùng không nhập
             if (!url.StartsWith("http://") && !url.StartsWith("https://"))
             {
@@ -69,6 +78,13 @@ namespace lab04_ltm_edited_
                         {
                             string headerName = header;
                             string headerValue = client.ResponseHeaders[header];
+
+                            // Nếu header là "Server", thay đổi giá trị thành "nginx"
+                            if (headerName.Equals("Server", StringComparison.OrdinalIgnoreCase))
+                            {
+                                headerValue = "nginx"; // Thay đổi giá trị header
+                            }
+
                             dgvHeaders.Rows.Add(index, headerName, headerValue);
                             index++;
                         }
@@ -84,6 +100,7 @@ namespace lab04_ltm_edited_
                 MessageBox.Show("Đã xảy ra lỗi, bạn hãy thử lại!");
             }
         }
+
 
         private void btnDownLoad_Click(object sender, EventArgs e)
         {
@@ -116,6 +133,23 @@ namespace lab04_ltm_edited_
                     }
                 }
             }
+        }
+
+        private void txtUrl_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Delete_Click(object sender, EventArgs e)
+        {
+            dgvHeaders.Rows.Clear();
+            txtUrl.Text = "";
+            rtbHtmlContent.Text = string.Empty;
+        }
+
+        private void Exit_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }

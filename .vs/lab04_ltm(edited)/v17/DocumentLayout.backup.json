@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Lab4Collab\\cc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5650BD4-FFD6-46D6-8767-DAE2F64C6282}|lab04_ltm(edited)\\lab04_ltm(edited).csproj|d:\\lab4collab\\cc\\lab04_ltm(edited)\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5650BD4-FFD6-46D6-8767-DAE2F64C6282}|lab04_ltm(edited)\\lab04_ltm(edited).csproj|solutionrelative:lab04_ltm(edited)\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5650BD4-FFD6-46D6-8767-DAE2F64C6282}|lab04_ltm(edited)\\lab04_ltm(edited).csproj|d:\\lab4collab\\cc\\lab04_ltm(edited)\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C5650BD4-FFD6-46D6-8767-DAE2F64C6282}|lab04_ltm(edited)\\lab04_ltm(edited).csproj|solutionrelative:lab04_ltm(edited)\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5650BD4-FFD6-46D6-8767-DAE2F64C6282}|lab04_ltm(edited)\\lab04_ltm(edited).csproj|d:\\lab4collab\\cc\\lab04_ltm(edited)\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5650BD4-FFD6-46D6-8767-DAE2F64C6282}|lab04_ltm(edited)\\lab04_ltm(edited).csproj|solutionrelative:lab04_ltm(edited)\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5650BD4-FFD6-46D6-8767-DAE2F64C6282}|lab04_ltm(edited)\\lab04_ltm(edited).csproj|d:\\lab4collab\\cc\\lab04_ltm(edited)\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C5650BD4-FFD6-46D6-8767-DAE2F64C6282}|lab04_ltm(edited)\\lab04_ltm(edited).csproj|solutionrelative:lab04_ltm(edited)\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5650BD4-FFD6-46D6-8767-DAE2F64C6282}|lab04_ltm(edited)\\lab04_ltm(edited).csproj|d:\\lab4collab\\cc\\lab04_ltm(edited)\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5650BD4-FFD6-46D6-8767-DAE2F64C6282}|lab04_ltm(edited)\\lab04_ltm(edited).csproj|solutionrelative:lab04_ltm(edited)\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5650BD4-FFD6-46D6-8767-DAE2F64C6282}|lab04_ltm(edited)\\lab04_ltm(edited).csproj|d:\\lab4collab\\cc\\lab04_ltm(edited)\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C5650BD4-FFD6-46D6-8767-DAE2F64C6282}|lab04_ltm(edited)\\lab04_ltm(edited).csproj|solutionrelative:lab04_ltm(edited)\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5650BD4-FFD6-46D6-8767-DAE2F64C6282}|lab04_ltm(edited)\\lab04_ltm(edited).csproj|d:\\lab4collab\\cc\\lab04_ltm(edited)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C5650BD4-FFD6-46D6-8767-DAE2F64C6282}|lab04_ltm(edited)\\lab04_ltm(edited).csproj|solutionrelative:lab04_ltm(edited)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "D:\\Lab4Collab\\cc\\lab04_ltm(edited)\\Form4.cs",
+              "RelativeDocumentMoniker": "lab04_ltm(edited)\\Form4.cs",
+              "ToolTip": "D:\\Lab4Collab\\cc\\lab04_ltm(edited)\\Form4.cs*",
+              "RelativeToolTip": "lab04_ltm(edited)\\Form4.cs*",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAswFEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T12:23:45.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form5.cs",
+              "DocumentMoniker": "D:\\Lab4Collab\\cc\\lab04_ltm(edited)\\Form5.cs",
+              "RelativeDocumentMoniker": "lab04_ltm(edited)\\Form5.cs",
+              "ToolTip": "D:\\Lab4Collab\\cc\\lab04_ltm(edited)\\Form5.cs",
+              "RelativeToolTip": "lab04_ltm(edited)\\Form5.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAwwL0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T12:21:04.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form5.cs [Design]",
+              "DocumentMoniker": "D:\\Lab4Collab\\cc\\lab04_ltm(edited)\\Form5.cs",
+              "RelativeDocumentMoniker": "lab04_ltm(edited)\\Form5.cs",
+              "ToolTip": "D:\\Lab4Collab\\cc\\lab04_ltm(edited)\\Form5.cs [Design]",
+              "RelativeToolTip": "lab04_ltm(edited)\\Form5.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T12:20:36.158Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "D:\\Lab4Collab\\cc\\lab04_ltm(edited)\\Form4.cs",
+              "RelativeDocumentMoniker": "lab04_ltm(edited)\\Form4.cs",
+              "ToolTip": "D:\\Lab4Collab\\cc\\lab04_ltm(edited)\\Form4.cs [Design]*",
+              "RelativeToolTip": "lab04_ltm(edited)\\Form4.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T12:19:22.734Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "D:\\Lab4Collab\\cc\\lab04_ltm(edited)\\Form3.cs",
+              "RelativeDocumentMoniker": "lab04_ltm(edited)\\Form3.cs",
+              "ToolTip": "D:\\Lab4Collab\\cc\\lab04_ltm(edited)\\Form3.cs",
+              "RelativeToolTip": "lab04_ltm(edited)\\Form3.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAwwIgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T12:16:15.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "D:\\Lab4Collab\\cc\\lab04_ltm(edited)\\Form3.cs",
+              "RelativeDocumentMoniker": "lab04_ltm(edited)\\Form3.cs",
+              "ToolTip": "D:\\Lab4Collab\\cc\\lab04_ltm(edited)\\Form3.cs [Design]",
+              "RelativeToolTip": "lab04_ltm(edited)\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T12:15:37.531Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Lab4Collab\\cc\\lab04_ltm(edited)\\Form1.cs",
+              "RelativeDocumentMoniker": "lab04_ltm(edited)\\Form1.cs",
+              "ToolTip": "D:\\Lab4Collab\\cc\\lab04_ltm(edited)\\Form1.cs [Design]",
+              "RelativeToolTip": "lab04_ltm(edited)\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T12:15:28.979Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
